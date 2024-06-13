@@ -2,8 +2,6 @@
 
 This document details a Matlab Simulink simulation of the Boeing 747 front landing gear, covering assumptions, model structure, and load calculations. 
 It includes a control system with PID feedback, geometric modeling, and analysis of weight, aerodynamic forces, and drag strut spring. 
-The report features mathematical formulas and diagrams, supported by a GitHub repository for further resources.
-
 
 
 ## Running instructions
